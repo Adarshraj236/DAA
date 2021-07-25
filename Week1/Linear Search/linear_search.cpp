@@ -20,7 +20,7 @@ int main()
             }
         }
         if(temp==1){
-            cout<<"Present "<< k<<endl;
+            cout<<"Present "<< k+1<<endl;
         }
         else{
             cout<<"Not present "<<k<<endl;
